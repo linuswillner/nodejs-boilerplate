@@ -12,8 +12,5 @@
     },
     "sourceType": "module"
   },
-  "extends": "standard",
-  "plugins": [
-    "standard"
-  ]
+  "extends": "standard"
 }
